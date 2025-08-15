@@ -53,7 +53,7 @@ Book found! It is available.
 
 ## Installation & Setup
 
-1. Clone this repository: `git clone [will insert link later]`
+1. Clone this repository: `git clone https://github.com/blyeshontai/library-management-system.git`
 2. Open the folder in **Visual Studio Code**.
 3. Ensure you have the **.NET SDK** installed: `dotnet --version`
 4. Run the application: `dotnet run`
