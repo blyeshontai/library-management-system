@@ -1,6 +1,6 @@
 # Library Management System (C#)
 
-A console-based library management system written in C#.  
+A console-based library management system written in C#.
 This project is designed to practice fundamental programming concepts such as variables, data types, control structures, loops, methods, and object-oriented programming.
 
 ---
@@ -16,9 +16,9 @@ This project is designed to practice fundamental programming concepts such as va
 
 ## Technologies Used
 
-- C#  
-- .NET SDK  
-- Visual Studio Code  
+- C#
+- .NET SDK
+- Visual Studio Code
 - Git / GitHub for version control
 
 ---
@@ -43,6 +43,7 @@ Choose an option:
 2. Borrow a book
 3. Return a book
 4. Exit
+5. View all books
 
 Enter your choice: 1
 Enter the book title: The Great Gatsby
@@ -64,21 +65,19 @@ Book found! It is available.
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
 
 ---
 
 ## Future Improvements
 
-- Store book data in a file or database for persistence. 
-- Add user authentication and library card system. 
+- Store book data in a file or database for persistence.
+- Add user authentication and library card system.
 - Build a graphical interface using WPF or web front-end
 
---- 
+---
 
 
 ## Author
 
 Created by Shontai Blye – aspiring back-end developer
-
-

@@ -34,6 +34,7 @@ namespace LibraryManagementSystem
                 Console.WriteLine("2. Borrow a book");
                 Console.WriteLine("3. Return a book");
                 Console.WriteLine("4. Exit");
+                Console.WriteLine("5. View all books");
 
                 Console.Write("\nEnter your choice: ");
                 string choice = Console.ReadLine();
@@ -101,6 +102,16 @@ namespace LibraryManagementSystem
                     case "4":
                         Console.WriteLine("Goodbye!");
                         return;
+
+                    case "5":
+                        Console.WriteLine("\nAll Books:");
+                        foreach (var book in books)
+                        {
+                            string status = book.IsCheckedOut ? "Checked out" : "Available";
+                            Console.WriteLine($"- {book.Title} ({status})");
+                        }
+                        break;
+
 
                     default:
                         Console.WriteLine("Invalid choice. Please enter 1-4.");

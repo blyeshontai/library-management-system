@@ -1,0 +1,15 @@
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/bin/Debug/net9.0/LibraryManagementSystem
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/bin/Debug/net9.0/LibraryManagementSystem.deps.json
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/bin/Debug/net9.0/LibraryManagementSystem.runtimeconfig.json
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/bin/Debug/net9.0/LibraryManagementSystem.dll
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/bin/Debug/net9.0/LibraryManagementSystem.pdb
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.AssemblyInfoInputs.cache
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.AssemblyInfo.cs
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.sourcelink.json
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.dll
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/refint/LibraryManagementSystem.dll
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.pdb
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/LibraryManagementSystem.genruntimeconfig.cache
+/Users/shontaiblye/Documents/GitHub Projects/library-management-system/LibraryManagementSystem/obj/Debug/net9.0/ref/LibraryManagementSystem.dll
