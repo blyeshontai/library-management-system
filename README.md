@@ -14,15 +14,6 @@ This project is designed to practice fundamental programming concepts such as va
 
 ---
 
-## Technologies Used
-
-- C#
-- .NET SDK
-- Visual Studio Code
-- Git / GitHub for version control
-
----
-
 ## How It Works
 
 1. The program starts with a predefined list of books.
@@ -52,7 +43,7 @@ Book found! It is available.
 
 ---
 
-## Installation & Setup
+## How To Run
 
 1. Clone this repository: `git clone https://github.com/blyeshontai/library-management-system.git`
 2. Open the folder in **Visual Studio Code**.
